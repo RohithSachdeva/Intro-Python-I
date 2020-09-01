@@ -28,4 +28,5 @@ print(len(x))
 
 # Print all the values in x multiplied by 1000
 # YOUR CODE HERE
-print(x * 1000)
+x_multiplied = [element * 1000 for element in x]
+print(x_multiplied)
