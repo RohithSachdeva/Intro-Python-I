@@ -10,7 +10,7 @@ Use Python's slice syntax to achieve the following:
 """
 
 a = [2, 4, 1, 7, 9, 6]
-#After param1 .. before param2 ??? following 0 index
+#Select param1 .. before param2 ??? following 0 index
 
 # Output the second element: 4:
 print(a[slice(1,2)])
