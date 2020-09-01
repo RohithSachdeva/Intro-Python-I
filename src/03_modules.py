@@ -10,6 +10,10 @@ import sys
 
 # Print out the command line arguments in sys.argv, one per line:
 # YOUR CODE HERE
+#Loop through them and print each one.
+
+for arg in sys.argv:
+    print(arg)  
 print('Number of arguments: ', len(sys.argv))
 print(sys.argv[0])
 
