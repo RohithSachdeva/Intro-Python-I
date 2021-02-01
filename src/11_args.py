@@ -6,6 +6,7 @@
 
 # YOUR CODE HERE
 
+
 print(f1(1, 2))
 
 # Write a function f2 that takes any number of integer arguments and returns the

@@ -27,6 +27,10 @@ print out a calendar for April in 2015, but if you omit either the year or both 
 it should use today’s date to get the month and year.
 """
 
+#https://docs.python.org/3.6/library/datetime.html#datetime.date
+#no input .. datetime.now().month 
+#if input is 1? 
+
 import sys
 import calendar
 from datetime import datetime
